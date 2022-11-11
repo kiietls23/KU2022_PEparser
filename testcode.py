@@ -1,7 +1,6 @@
 import pefile
 
-def print_header(d):
-    print("[", d['Structure'], "]")
+def print_info(d):
     del d['Structure']
     tlist=[['Name','Offset','RAW','Value'],['-'*30,'-'*10,'-'*10,'-'*10]]
     for k in d.keys():
@@ -15,11 +14,12 @@ path = input("분석할 파일 경로를 입력해주세요 >> ")
 print()
 pe = pefile.PE(path)
 
-dosh=pe.DOS_HEADER.dump_dict()
-nth=pe.NT_HEADERS.dump_dict()
-fileh=pe.FILE_HEADER.dump_dict()
-oph=pe.OPTIONAL_HEADER.dump_dict()
-print_header(dosh)
-print_header(nth)
-print_header(fileh)
-print_header(oph)
+hinfo=[pe.DOS_HEADER.dump_dict(), pe.NT_HEADERS.dump_dict(), pe.FILE_HEADER.dump_dict(), pe.OPTIONAL_HEADER.dump_dict()]
+
+for h in hinfo:
+    print("[", h['Structure'], "]")
+    print_info(h)
+for s in pe.sections:
+    print(s.Name.decode())
+    sd = s.dump_dict()
+    print_info(sd)
