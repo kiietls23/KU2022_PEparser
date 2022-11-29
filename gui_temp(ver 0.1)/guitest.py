@@ -59,9 +59,6 @@ class MyWindow(QDialog, UI_class):
 
 
 app = QApplication(sys.argv) 
-
 Window = MyWindow() 
-
 Window.show()
-
 app.exec_()
