@@ -6,7 +6,7 @@ from PyQt5.QtGui import *#Qfont사용하기위해import
 
 
 #UI파일 연결 코드
-UI_class = uic.loadUiType("just_temp.ui")[0]
+UI_class = uic.loadUiType("ver02.ui")[0]
 
 
 class MyWindow(QDialog, UI_class):
