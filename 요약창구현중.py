@@ -4,8 +4,10 @@ from PyQt5.QtWidgets import *
 from PyQt5 import uic   # ui 파일을 사용하기 위한 모듈 import
 from PyQt5.QtGui import *#Qfont사용하기위해import
 
+
 #UI파일 연결 코드
 UI_class = uic.loadUiType("just_temp.ui")[0]
+
 
 class MyWindow(QDialog, UI_class):
     def __init__(self):
@@ -31,6 +33,7 @@ class MyWindow(QDialog, UI_class):
                 print("UPX Packed")
                 self.textBrowser.append("UPX Packed")
                 break
+        self.summ()
 
     def butfunc(self):
         for s in pe.sections: # section 정보 가져오기
@@ -49,6 +52,7 @@ class MyWindow(QDialog, UI_class):
     def setfont(self):
         fontvar = QFont("Consolas",10)
         self.textBrowser.setCurrentFont(fontvar)
+        self.summary.setCurrentFont(fontvar)
         
     def print_info(self,d):
         del d['Structure'] # 필요없는 정보 삭제
@@ -65,12 +69,19 @@ class MyWindow(QDialog, UI_class):
             self.textBrowser.append(f'{item[0]:30s}| {item[1]:10}| {item[2]:10}| {item[3]:10}')
         print()
         self.textBrowser.append("")
-    def summ(self):#요약창
-        print()#섹션 이름, NumberOfSections, TimeDateStamp, BaseOfCode, ImageBase
+    def summ(self):
+        #섹션 이름, NumberOfSections, TimeDateStamp, BaseOfCode, ImageBase
+        self.summary.setPlainText("SUMMARY")
+        self.summary.append("NumberOfSections :"+str(pe.FILE_HEADER.NumberOfSections))
+        self.summary.append("섹션 정보")
         print("NumberOfSections :", pe.FILE_HEADER.NumberOfSections)
         print("섹션 정보")
         for s in pe.sections:
             print(s.Name.decode())
+            self.summary.append(s.Name.decode())
+        self.summary.append("TimeDateStamp : "+pe.FILE_HEADER.dump_dict()['TimeDateStamp']['Value'])
+        self.summary.append("ImageBase : "+str(hex(pe.OPTIONAL_HEADER.ImageBase)))
+        self.summary.append("BaseOfCode : "+str(hex(pe.OPTIONAL_HEADER.BaseOfCode)))
         print("TimeDateStamp : ",pe.FILE_HEADER.dump_dict()['TimeDateStamp']['Value'])
         print("ImageBase : ", pe.OPTIONAL_HEADER.ImageBase)
         print("BaseOfCode : ", pe.OPTIONAL_HEADER.BaseOfCode)
