@@ -17,10 +17,9 @@ class MyWindow(QDialog, UI_class):
         self.inputb.clicked.connect(self.inputf)
         self.sectionButton.clicked.connect(self.butfunc)
         self.headerButton.clicked.connect(self.butfunc2)
-        #self.tree.itemSelectionChanged.connect(self.click)
-        self.tree.itemClicked.connect(self.some)
+        self.tree.itemClicked.connect(self.clicktree)
 
-    def some(self, it, col):
+    def clicktree(self, it, col):
         #print(it.text(0))
         select = it.text(0)
         flag = True
@@ -42,18 +41,6 @@ class MyWindow(QDialog, UI_class):
             self.textBrowser.clear()
             self.print_info(h)
             
-    def click(self):
-        getSelected = self.tree.selectedItems()
-        if getSelected:
-            baseNode = getSelected[0]
-            getChildNode = baseNode.text(0)
-            if getChildNode == "DOS HEADER":
-                h = pe.DOS_HEADER.dump_dict()
-            elif getChildNode == "FILE HEADER":
-                h = pe.FILE_HEADER.dump_dict()
-            elif getChildNode == "OPTIONAL HEADER":
-                h = pe.OPTIONAL_HEADER.dump_dict()
-            #print(getChildNode)
             
     def inputf(self):
         self.setfont()#폰트설정
