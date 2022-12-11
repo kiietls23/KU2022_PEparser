@@ -25,6 +25,7 @@ class MyWindow(QDialog, UI_class):
         self.baseofc.clear()
         self.imageb.clear()
         self.analy.clear()
+        self.sumtable.clear()#section table비우기
         path = self.lineEdit.text()
         global pe
         global packed
