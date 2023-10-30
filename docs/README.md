@@ -49,7 +49,7 @@ Language | Platform | Runtime | Tool
 <summary>
   타겟 설정
 </summary>
-   ![타겟 설정](https://github.com/kiietls23/KU2022_PEparser/assets/48422575/37c852fe-2c9a-4bbf-a6bc-46ddaea5aeae)
+  <img width="80%" src="![타겟 설정](https://github.com/kiietls23/KU2022_PEparser/assets/48422575/37c852fe-2c9a-4bbf-a6bc-46ddaea5aeae)"/>
 </details>
 
 <details>
