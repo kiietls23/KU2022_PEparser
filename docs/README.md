@@ -29,11 +29,11 @@
 <br>
 
 ## 🧑‍💻 개발 인원(3명)
-이름 | github | blog
+이름 | github | blog | roles
 -- | -- | --
-박신영(PM) | https://github.com/kiietls23 | https://logforlog.tistory.com/
-김선우 | https://github.com/sunuukim | https://blog.naver.com/cys192k
-서혁 | https://github.com/seohyeok
+박신영(PM) | https://github.com/kiietls23 | https://logforlog.tistory.com/ | 분석 및 선별 정보 시각화 기획 <br> 화면 설계 및 프로토타입 디자인 <br> 산출물 제작
+김선우 | https://github.com/sunuukim | https://blog.naver.com/cys192k | 시스템 개발 <br> 버전 관리 <br> GUI 적용
+서혁 | https://github.com/seohyeok | | 테스팅 리서치 <br> QA
 
 
 <br>
