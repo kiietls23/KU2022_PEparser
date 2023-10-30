@@ -38,9 +38,9 @@
 <br>
 
 ## ✍ 기술 스택
-Language | Platform | Runtime | Tool
+Language | Platform | RTE | Tool
 | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: 
-<img src="https://img.shields.io/badge/python-3.10.2-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Flask-2.3.1-000000?style=for-the-badge&logo=Flask&logoColor=white"> <br> <img src="https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> | <img src="https://img.shields.io/badge/MySQL-8.0.33-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> | <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <br> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter"> | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> | <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <br> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 
 <br>
 
@@ -75,7 +75,6 @@ Language | Platform | Runtime | Tool
 <details>
 <summary>
   기능명세서
-  ---
 </summary>
   <img width="80%" src="https://user-images.githubusercontent.com/48422575/278928472-2e2dc2ca-60fa-4bd1-9bc1-997df166f3a3.png"/>
 
