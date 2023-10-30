@@ -47,17 +47,17 @@ Language | Platform | RTE | Tool
 
 ## 🛠️ Requirements
 
- * 타겟 설정
+ * ***타겟 설정***
 
   <img width="80%" src="https://user-images.githubusercontent.com/48422575/278925021-37c852fe-2c9a-4bbf-a6bc-46ddaea5aeae.png"/>
 
 
- * 유저 시나리오
+ * ***유저 시나리오***
 
   <img width="80%" src="https://user-images.githubusercontent.com/48422575/278925988-56970065-31e3-4018-8801-4e9189bb2887.PNG"/>
 
 
-  * 요구사항 도출  
+  * ***요구사항 도출***
   
     * 리버싱에 필요한 실행 파일의 정보 (주로 주소) 를 파싱
   
@@ -66,7 +66,7 @@ Language | Platform | RTE | Tool
     * 스트링 형태의 보안 데이터 시각화를 최종 목표로 함
     
 
-  * 기능명세서
+  * ***기능명세서***
 
   <img width="80%" src="https://user-images.githubusercontent.com/48422575/278928472-2e2dc2ca-60fa-4bd1-9bc1-997df166f3a3.png"/>
 
