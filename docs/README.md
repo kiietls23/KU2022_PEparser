@@ -64,8 +64,11 @@ Language | Platform | Runtime | Tool
   요구사항 도출
 </summary>
   * 리버싱에 필요한 실행 파일의 정보 (주로 주소) 를 파싱
+  
   * 초보 학습자와 전문 분석가에게 모두 직관적이고 유용한 학습 툴
+    
   * 스트링 형태의 보안 데이터 시각화를 최종 목표로 함
+    
 </details>
 
 <details>
