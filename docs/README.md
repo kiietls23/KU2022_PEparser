@@ -47,30 +47,30 @@ Language | Platform | Runtime | Tool
 ## 🛠️ Requirements
 <details>
 <summary>
-  타겟 설정
+  ### 타겟 설정
 </summary>
-  <img width="90%" src="https://user-images.githubusercontent.com/48422575/278925021-37c852fe-2c9a-4bbf-a6bc-46ddaea5aeae.png"/>
+  <img width="80%" src="https://user-images.githubusercontent.com/48422575/278925021-37c852fe-2c9a-4bbf-a6bc-46ddaea5aeae.png"/>
 </details>
 
 <details>
 <summary>
-  유저 시나리오
+  ### 유저 시나리오
 </summary>
-   ![image](https://github.com/kiietls23/KU2022_PEparser/assets/48422575/99ecd8e1-f935-45f5-97c4-bb9456ec4dd3)
+  <img width="80%" src="https://user-images.githubusercontent.com/48422575/278925988-56970065-31e3-4018-8801-4e9189bb2887.PNG"/>
 </details>
 
 <details>
 <summary>
-  요구사항 도출
+  ### 요구사항 도출
 </summary>
    텍스트
 </details>
 
 <details>
 <summary>
-  기능명세서
+  ### 기능명세서
 </summary>
-   ![image](https://github.com/kiietls23/KU2022_PEparser/assets/48422575/ccb0c8d8-5327-4033-9828-216b1370f289)
+   <img width="80%" src="![image](https://github.com/kiietls23/KU2022_PEparser/assets/48422575/ab4165ea-0d74-4afa-abba-017586d1d40b)
 </details>
 
 <br>
