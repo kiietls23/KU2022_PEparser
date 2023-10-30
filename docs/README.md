@@ -49,7 +49,7 @@ Language | Platform | Runtime | Tool
 <summary>
   타겟 설정
 </summary>
-  [<img width="80%" src="https://user-images.githubusercontent.com/48422575/278925021-37c852fe-2c9a-4bbf-a6bc-46ddaea5aeae.png"/>]
+  <img width="90%" src="https://user-images.githubusercontent.com/48422575/278925021-37c852fe-2c9a-4bbf-a6bc-46ddaea5aeae.png"/>
 </details>
 
 <details>
