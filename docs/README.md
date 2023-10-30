@@ -12,7 +12,7 @@
 
 <br>
 
-# 🚀 KU2022_PEparser
+# :triangular_flag_on_post: KU2022_PEparser
 - 원하는 핵심 정보를 간편하게 파악 가능하고 처음 보는 사람도 쉽게 사용할 수 있는 파일 분석 프로그램 제작
 
 <br>
@@ -24,8 +24,7 @@
 
 ## 📆 개발 기간
 - 2022.10.04 ~ 2022.12.13
-
-- <img width="80%" src="https://user-images.githubusercontent.com/48422575/278928971-ee691e4d-d646-4efe-9eb7-7d34bb11e65d.PNG"/>
+<img width="80%" src="https://user-images.githubusercontent.com/48422575/278928971-ee691e4d-d646-4efe-9eb7-7d34bb11e65d.PNG"/>
 
 <br>
 
