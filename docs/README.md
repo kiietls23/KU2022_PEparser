@@ -89,7 +89,7 @@ Language | Platform | RTE | Tool
 <br>
 
 # 📝 최종 산출물 - 발표 PPT
-### 🔗 (https://github.com/kiietls23/KU2022_PEparser/blob/main/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85.pdf)
+### 🔗 [발표자료](https://github.com/kiietls23/KU2022_PEparser/blob/main/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85.pdf)
 
 
 
