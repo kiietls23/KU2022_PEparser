@@ -25,6 +25,8 @@
 ## 📆 개발 기간
 - 2022.10.04 ~ 2022.12.13
 
+- <img width="80%" src="https://user-images.githubusercontent.com/48422575/278928971-ee691e4d-d646-4efe-9eb7-7d34bb11e65d.PNG"/>
+
 <br>
 
 ## 💻 개발 인원(3명)
@@ -74,8 +76,8 @@ Language | Platform | RTE | Tool
 <br>
 
 ## 📚 화면 설계
-![image](https://github.com/kiietls23/KU2022_PEparser/assets/48422575/15b92a2e-8061-4690-bab0-382bc9519727)
-![image](https://github.com/kiietls23/KU2022_PEparser/assets/48422575/9ca1205c-d376-4afd-b8f4-3b35e4e5c710)
+<img width="80%" src="https://github.com/kiietls23/KU2022_PEparser/assets/48422575/15b92a2e-8061-4690-bab0-382bc9519727"/>
+<img width="80%" src="https://github.com/kiietls23/KU2022_PEparser/assets/48422575/9ca1205c-d376-4afd-b8f4-3b35e4e5c710"/>
 
 
 
