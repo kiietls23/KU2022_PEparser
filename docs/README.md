@@ -48,6 +48,7 @@ Language | Platform | Runtime | Tool
 <details>
 <summary>
   타겟 설정
+  ---
 </summary>
   <img width="80%" src="https://user-images.githubusercontent.com/48422575/278925021-37c852fe-2c9a-4bbf-a6bc-46ddaea5aeae.png"/>
 </details>
@@ -55,6 +56,7 @@ Language | Platform | Runtime | Tool
 <details>
 <summary>
   유저 시나리오
+  ---
 </summary>
   <img width="80%" src="https://user-images.githubusercontent.com/48422575/278925988-56970065-31e3-4018-8801-4e9189bb2887.PNG"/>
 </details>
@@ -62,14 +64,20 @@ Language | Platform | Runtime | Tool
 <details>
 <summary>
   요구사항 도출
+  ---
 </summary>
-   텍스트
+  - 리버싱에 필요한 실행 파일의 정보 (주로 주소) 를 파싱
+  - 초보 학습자와 전문 분석가에게 모두 직관적이고 유용한 학습 툴
+  - 스트링 형태의 보안 데이터 시각화를 최종 목표로 함
 </details>
 
 <details>
 <summary>
   기능명세서
+  ---
 </summary>
+  ![기능명세서](https://github.com/kiietls23/KU2022_PEparser/assets/48422575/91f744c3-14a3-4a2c-8db5-78fc4130b3e4)
+
 </details>
 
 <br>
