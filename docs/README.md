@@ -28,11 +28,11 @@
 
 <br>
 
-## 💻 개발 인원(3명)
+## 🧑‍💻 개발 인원(3명)
 이름 | github | blog
 -- | -- | --
 박신영(PM) | https://github.com/kiietls23 | https://logforlog.tistory.com/
-김선우 | https://github.com/sunuukim
+김선우 | https://github.com/sunuukim | https://blog.naver.com/cys192k
 서혁 | https://github.com/seohyeok
 
 
@@ -74,7 +74,7 @@ Language | Platform | RTE | Tool
 
 <br>
 
-## 📚 화면 설계
+## 🖥 화면 설계
 <img width="80%" src="https://github.com/kiietls23/KU2022_PEparser/assets/48422575/15b92a2e-8061-4690-bab0-382bc9519727"/>
 <img width="80%" src="https://github.com/kiietls23/KU2022_PEparser/assets/48422575/9ca1205c-d376-4afd-b8f4-3b35e4e5c710"/>
 
@@ -89,7 +89,7 @@ Language | Platform | RTE | Tool
 <br>
 
 # 📝 최종 산출물 - 발표 PPT
-### 🔗 
+### 🔗 (https://github.com/kiietls23/KU2022_PEparser/blob/main/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85.pdf)
 
 
 
