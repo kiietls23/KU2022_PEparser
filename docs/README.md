@@ -13,7 +13,7 @@
 <br>
 
 # 🚀 KU2022_PEparser
-- 쇼핑몰 웹 페이지 제작
+- 원하는 핵심 정보를 간편하게 파악 가능하고 처음 보는 사람도 쉽게 사용할 수 있는 파일 분석 프로그램 제작
 
 <br>
 
@@ -51,20 +51,22 @@ Language | Framework | Database | Tool
 </summary>
    ![image](https://github.com/kiietls23/KU2022_PEparser/assets/48422575/0d21eb9d-e871-403c-ab8c-11d5b1b59815)
 </details>
+
 <details>
-  
 <summary>
   유저 시나리오
 </summary>
    ![image](https://github.com/kiietls23/KU2022_PEparser/assets/48422575/99ecd8e1-f935-45f5-97c4-bb9456ec4dd3)
 </details>
 
+<details>
 <summary>
   요구사항 도출
 </summary>
    텍스트
 </details>
 
+<details>
 <summary>
   기능명세서
 </summary>
