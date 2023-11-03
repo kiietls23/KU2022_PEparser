@@ -18,7 +18,7 @@
 <br>
 
 ## 🔖 최종 결과
-여기에 영상 넣기
+<img width="100%" src="https://user-images.githubusercontent.com/48422575/280174678-a3f010bf-6cba-4eba-953a-8c9963feeadb.png">
 
 <br>
 
