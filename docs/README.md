@@ -32,7 +32,7 @@
 이름 | roles | github | blog 
 -- | -- | -- | --
 박신영(PM) | 분석 및 선별 정보 시각화 기획 <br> 화면 설계 및 프로토타입 디자인 <br> 산출물 제작 | https://github.com/kiietls23 | https://logforlog.tistory.com/ 
-김선우 | 시스템 개발 <br> 버전 관리 <br> GUI 적용 | https://github.com/sunuukim | https://blog.naver.com/cys192k 
+김선우 | 시스템 개발 <br> 버전 관리 <br> GUI 적용 | https://github.com/sunuukim | https://blog.naver.com/study_aics 
 서혁 | 테스팅 리서치 <br> QA | https://github.com/seohyeok | 
 
 
